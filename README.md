@@ -3,6 +3,6 @@ Configuration files for Eclipse IDE
 
 Eclise Neon (4.6.0)
 
-/home/pawel/eclipse/cpp-neon/eclipse/configuration/config.ini
-/home/pawel/eclipse/cpp-neon/eclipse/eclipse.ini
-/usr/share/applications/eclipse.desktop
+~/eclipse/cpp-neon/eclipse/configuration/config.ini
+~/eclipse/cpp-neon/eclipse/eclipse.ini
+~/.local/share/applications/eclipse.desktop
