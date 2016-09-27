@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse
+Comment=Eclipse Integrated Development Environment
+Icon=/home/pawel/eclipse/cpp-neon/icon.xpm
+Exec=/home/pawel/eclipse/cpp-neon/eclipse
+Terminal=false
+Categories=Development;IDE;Java;
+Name[en]=Eclipse
+NoDisplay=false
